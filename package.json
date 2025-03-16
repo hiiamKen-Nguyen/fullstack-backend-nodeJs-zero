@@ -1,0 +1,27 @@
+{
+  "name": "full-fullbackend-zero",
+  "version": "1.0.0",
+  "description": "Backend project built with Node.js from scratch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiiamKen-Nguyen/fullstack-backend-nodeJs-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "NguyenBaoLong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiiamKen-Nguyen/fullstack-backend-nodeJs-zero/issues"
+  },
+  "homepage": "https://github.com/hiiamKen-Nguyen/fullstack-backend-nodeJs-zero#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
